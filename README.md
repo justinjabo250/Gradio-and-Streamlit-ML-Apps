@@ -184,4 +184,4 @@ Oh, one more thing, please do not forget to put a description when you make your
 ## Author
 
 - [Justin Jabo](https://www.linkedin.com/in/jabo-justin-2815341a2/)
-[![Medium Link](https://medium.com/me/stories/public)
+[![medium Link](https://medium.com/me/stories/public)]
